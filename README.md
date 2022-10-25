@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ezestom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 💫 About Me:
+👋 Hi there! Welcome to my profile.<br>👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I like space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com
 
-<!---
-ezestom/ezestom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-f-stom-a303b9230) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ezestom&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ezestom&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezestom&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
