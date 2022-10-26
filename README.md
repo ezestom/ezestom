@@ -1,5 +1,6 @@
 # 💫 Welcome to my profile:
-👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I like space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com![NUX_Octodex](https://user-images.githubusercontent.com/100095709/198050344-e0267b7d-3230-45c1-a79a-54422bac0b88.gif)
+👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I like space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com
+![w8ZJLtJbmuph](https://user-images.githubusercontent.com/100095709/198051322-ac048305-00fe-4fde-bf1f-b14a13cad2b9.gif)
 
 
 
