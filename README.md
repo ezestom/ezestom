@@ -1,5 +1,5 @@
 # 💫 Welcome to my profile:
-👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I like space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com
+👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com
 
 
 
