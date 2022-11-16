@@ -1,5 +1,14 @@
 # 💫 Hi there & welcome to my GitHub profile :
-👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com 
+
+# 👨‍💻 About Me
+👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com <br>
+
+# 🛠 Tech Stack
+⛏ JavaScript | Java <br>
+⛏ HTML | CSS | Tailwind | Node.js | ReactJs | Next.js <br>
+⛏ Git | Jest <br>
+
+
 
 
 
