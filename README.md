@@ -5,8 +5,8 @@
 
 # 🛠 Tech Stack
 ⛏ JavaScript | Java <br>
-⛏ HTML | CSS & Sass | Tailwind | Node.js | ReactJs | Next.js | MySQL | Docker <br>
-⛏ Git | GitHub | Jest <br>
+⛏ HTML | CSS & Sass | Tailwind | Node.js | ReactJs | Next.js | MySQL <br>
+⛏ Git | GitHub | Jest | Docker<br>
 
 
 
