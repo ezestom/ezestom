@@ -10,9 +10,8 @@
 
 
 
+![readmeGitHub](https://user-images.githubusercontent.com/100095709/204417227-909765b6-4a5f-4e9b-a84f-7fd2d35df5da.png)
 
-
-![w8ZJLtJbmuph](https://user-images.githubusercontent.com/100095709/198051322-ac048305-00fe-4fde-bf1f-b14a13cad2b9.gif)
 
 
 
