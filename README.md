@@ -8,12 +8,7 @@
 ⛏ HTML | CSS & Sass | Tailwind | Node.js | ReactJs | Next.js | MySQL <br>
 ⛏ Git | GitHub | Jest | Docker<br>
 
-
-
-![readmeGitHub](https://user-images.githubusercontent.com/100095709/204417227-909765b6-4a5f-4e9b-a84f-7fd2d35df5da.png)
-
-
-
+![readmeGitHub2](https://user-images.githubusercontent.com/100095709/204632785-b5974065-bc2a-423a-806d-11fd2b8f85f8.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-f-stom-a303b9230) 
