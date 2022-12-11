@@ -10,8 +10,10 @@
 
 ![readmeGitHub2](https://user-images.githubusercontent.com/100095709/204632785-b5974065-bc2a-423a-806d-11fd2b8f85f8.png)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ezequiel-f-stom-a303b9230) 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](www.linkedin.com/in/ezequielstom)](https://www.linkedin.com/)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ezestom&theme=radical&hide_border=false)<br/>
 
