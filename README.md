@@ -4,9 +4,10 @@
 👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at ezequielstom@gmail.com <br>
 
 # 🛠 Tech Stack
-⛏ JavaScript | Java <br>
-⛏ HTML | CSS | Tailwind | Node.js | ReactJs | Next.js | MySQL <br>
-⛏ Git | GitHub | Jest | Docker <br>
+⛏ Frontend => HTML | CSS | JavaScript | Tailwind | ReactJs | Next.js <br>
+⛏ Backend => Java + Spring or JavasScript + Node.js  <br>
+⛏ More Skills => Git | GitHub | Jest | Docker | MySQL <br>
+⛏ Cloud =>
 
 ![readmeGitHub2](https://user-images.githubusercontent.com/100095709/204632785-b5974065-bc2a-423a-806d-11fd2b8f85f8.png)
 
