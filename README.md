@@ -7,7 +7,7 @@
 ⛏ Frontend => HTML | CSS | JavaScript | Tailwind | ReactJs | Next.js <br>
 ⛏ Backend => Java + Spring or JavasScript + Node.js  <br>
 ⛏ More Skills => Git | GitHub | Jest | Docker | MySQL <br>
-⛏ Cloud =>
+⛏ Cloud => Azure
 
 ![readmeGitHub2](https://user-images.githubusercontent.com/100095709/204632785-b5974065-bc2a-423a-806d-11fd2b8f85f8.png)
 
