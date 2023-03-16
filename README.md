@@ -5,7 +5,7 @@
 
 # 🛠 Tech Stack
 ⛏ Frontend => HTML | CSS | JavaScript | Tailwind | ReactJs | Next.js <br>
-⛏ Backend => [Java + Spring & Spring Boot] or [JavasScript + Node.js] <br>
+⛏ Backend => [Java + Spring Boot] or [JavasScript + Node.js] <br>
 ⛏ More Skills => Git | GitHub | Jest or JUnit | Docker | My SQL <br>
 ⛏ Cloud => Azure
 
