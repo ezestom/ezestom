@@ -1,4 +1,4 @@
-# 👋 Hi there & welcome to my GitHub profile :
+# 👋 Hi there & welcome to my GitHub profile:
 
 # 👨‍💻 About Me
 👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, FreeCodeCamp & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at ✅ ezequielstom@gmail.com or ☑ https://www.linkedin.com/in/ezequielstom/<br>
