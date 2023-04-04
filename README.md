@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, Microsoft Learn, Google Courses & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at ✅ ezequielstom@gmail.com or ☑ https://www.linkedin.com/in/ezequielstom/<br>
 
 # 🛠 Tech Stack
-⛏ Frontend => HTML | CSS | JavaScript | Tailwind | ReactJs | Next.js <br>
+⛏ Frontend => Html | Css | JavaScript | Tailwind | ReactJs | Next.js <br>
 ⛏ Backend => [ Java + Spring Boot ] or [ JavasScript + Node.js ] <br>
 ⛏ More Skills => Git | GitHub | Jest or JUnit | Docker | My SQL <br>
 ⛏ Cloud =>
