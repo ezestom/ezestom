@@ -1,7 +1,7 @@
 # 👋 Hi there & welcome to my GitHub profile:
 
 # 👨‍💻 About Me
-👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, Microsoft Learn, Google Courses & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at: <br>✔️ ezequielstom@gmail.com<br>✔️ https://www.linkedin.com/in/ezequielstom/
+👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, Microsoft Learn, Oracle Next Education, Google Courses & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at: <br>✔️ ezequielstom@gmail.com<br>✔️ https://www.linkedin.com/in/ezequielstom/
 
 # 🛠 Tech Stack
 ⛏ Frontend => Html | Css | JavaScript | Tailwind | ReactJs | Next.js <br>
