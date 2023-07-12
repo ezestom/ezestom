@@ -1,12 +1,12 @@
 # 👋 Hi there & welcome to my GitHub profile:
 
 # 👨‍💻 About Me
-👯 I’m looking to collaborate in a company with projection.<br>🤝 I’m looking to help with my experience in hard and soft skills.<br>🌱 I’m currently learning at Digital House, Microsoft Learn, Oracle Next Education, Google Courses & many digital platforms.<br>💬 Ask me about anything, I’m happy to help.<br>⚡ Fun fact: I’m very keen on space technology 🚀<br>📫 Connect with me at: <br>✔️ ezequielstom@gmail.com<br>✔️ https://www.linkedin.com/in/ezequielstom/
+👯 Seeking collaborative opportunities with a company that offers growth and advancement potential.<br>🤝 Eager to contribute my experience in both hard and soft skills.<br>🌱 Currently learning at Digital House, Microsoft Learn, Oracle Next Education, Google Courses, and various digital platforms.<br>💬 Feel free to ask me anything—I'm here to assist you.<br>⚡ Fun fact: I have a strong interest in space technology.. 🚀<br>📫 Connect with me at: <br>✔️ ezequielstom@gmail.com<br>✔️ https://www.linkedin.com/in/ezequielstom/
 
 # 🛠 Tech Stack
-⛏ Frontend => Html | Css | JavaScript | Tailwind | ReactJs | Next.js <br>
-⛏ Backend => [ Java + Spring Boot ] or [ JavasScript + Node.js ] <br>
-⛏ More Skills => Git | GitHub | Jest or JUnit | My SQL <br>
+⛏ Frontend => HTML | CSS | JavaScript | Tailwind | React | NEXT.js <br>
+⛏ Backend =>  [ JavasScript + Node.js ]  <br>
+⛏ More Skills => Git | GitHub | Vitest or Jest | My SQL <br>
 ⛏ Cloud =>
 
 ![readmeGitHub2](https://user-images.githubusercontent.com/100095709/204632785-b5974065-bc2a-423a-806d-11fd2b8f85f8.png)
