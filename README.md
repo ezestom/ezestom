@@ -3,6 +3,7 @@
 # 👨‍💻 About Me
 👯 Seeking collaborative opportunities with a company that offers growth and advancement potential.<br>🤝 Eager to contribute my experience in both hard and soft skills.<br>🌱 Currently learning at Digital House, Microsoft Learn, Oracle Next Education, Google Courses, and various digital platforms.<br>💬 Feel free to ask me anything—I'm here to assist you.<br>⚡ Fun fact: I have a strong interest in space technology.. 🚀<br>📫 Connect with me at: <br>✔️ ezequielstom@gmail.com<br>✔️ https://www.linkedin.com/in/ezequielstom/
 
+[IMPORTANT]
 # 🛠 Tech Stack
 ⛏ Frontend => HTML | CSS | JavaScript | Tailwind | React | NEXT.js <br>
 ⛏ Backend =>  [ JavasScript + Node.js ]  <br>
