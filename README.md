@@ -14,7 +14,7 @@
 ⛏ More Skills => Git | GitHub | Vitest or Jest | My SQL <br>
 ⛏ Cloud =>
 
-![readmeGitHub2](https://user-images.githubusercontent.com/100095709/204632785-b5974065-bc2a-423a-806d-11fd2b8f85f8.png)
+![readmeGitHub3](https://github.com/ezestom/ezestom/assets/100095709/8658732d-3d5b-48b5-b689-6bb5d68b469b)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ezestom.github.io/portfolio/#)
@@ -23,4 +23,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ezestom&theme=radical&hide_border=false)<br/>
+
 
