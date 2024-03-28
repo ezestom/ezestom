@@ -9,9 +9,9 @@
 >👯 Seeking collaborative opportunities with a company that offers growth and advancement potential.<br>🤝 Eager to contribute my experience in both hard and soft skills.<br>🌱 Currently learning at Digital House, Microsoft Learn, Oracle Next Education, Google Courses, and various digital platforms.<br>💬 Feel free to ask me anything—I'm here to assist you.<br>⚡ Fun fact: I have a strong interest in space technology.. 🚀<br>📫 Connect with me at: <br>✔️ ezequielstom@gmail.com<br>✔️ https://www.linkedin.com/in/ezequielstom/
 
 # 🛠 Tech Stack
-⛏ Frontend => HTML | CSS | JavaScript | Tailwind | React | Astro | NEXT.js <br>
+⛏ Frontend => HTML | CSS | JavaScript | Tailwind | React | Astro <br>
 ⛏ Backend =>  [ JavasScript + Node.js ]  <br>
-⛏ More Skills => Git | GitHub | Vitest or Jest | My SQL <br>
+⛏ More Skills => Git | GitHub | Vitest | My SQL <br>
 ⛏ Cloud =>
 
 ![readmeGitHub3](https://github.com/ezestom/ezestom/assets/100095709/8658732d-3d5b-48b5-b689-6bb5d68b469b)
